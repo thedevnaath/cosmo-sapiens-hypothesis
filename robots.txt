@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thedevnaath.github.io/cosmo-sapiens-hypothesis/sitemap.xml
+Sitemap: https://thedevnaath.github.io/homo-aliens-hypothesis/sitemap.xml
