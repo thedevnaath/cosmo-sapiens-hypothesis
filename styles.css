@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: #fafafa;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+    background: #000;
+    color: #fff;
+}
+
+section {
+    padding: 30px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.download-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background: red;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+}
